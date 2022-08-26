@@ -1,3 +1,5 @@
 //Ola! Iniciando o estudo de git 2
 
 - Escrevendo 1° linha - versão 1
+
+- Escrevendo 2° linha - versão 2
